@@ -19,6 +19,6 @@ Link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
 Link: https://www.colleyrankings.com/matrate.pdf, 2002.
 
 (5) Kenneth Massey. Statistical models applied to the rating of sports teams. Bachelor’s thesis, Bluefield College, 1997.
-Link: http://masseyratings.com/theory/
+Link: https://masseyratings.com/theory/index.htm
 
 
