@@ -1,6 +1,10 @@
 # mathfest2023
 A repository for my Mathfest2023 poster.
 
+The files are:
+1) MathFestPosterPamphlet.pdf: a 8.5"x11" version of the poster. 
+2) ncaawbbd3.R, which contains sample R code for calculating Oracle ratings. (Here for DIII Women's College Basketball for the 2022-23 season.
+
 Here is the bibliography, with links where available.
 
 (1) Eduardo C. Balreira, Brian K. Miceli, and Thomas Tegtmeyer. An oracle method to predict NFL games. Journal of Quantitative Analysis
